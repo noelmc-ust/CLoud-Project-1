@@ -2,6 +2,7 @@
 
 Implementation of an advanced Hub-and-Spoke multi-region Azure infrastructure using Terraform. Features global traffic routing, centralized firewall security, and automated scaling.
 
+
 ## Architecture Diagram
 ![System Architecture](./project-phase1.png)
 
